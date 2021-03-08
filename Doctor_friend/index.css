@@ -1,0 +1,49 @@
+body{
+	width:100%;
+	height:40%;	
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.heading1{
+	color: red;
+	font-size:20px;
+}
+.heading12{
+	color: red;
+	text-align: center;
+	
+}
+.heading13{
+	color: brown;
+	text-align: center;
+}
+
+.heading5{
+	color:greenyellow;
+}	
+.form-group{
+	font-size:2px;
+}
+.first{
+	color:red;
+	text-align:center;
+}
+form{
+	text-align:center;
+}
+.float-container {
+    border: 3px solid #fff;
+    padding: 20px;
+}
+
+.float-child {
+    width: 50%;
+    float: left;
+    padding: 20px;
+    border: 2px solid red;
+}  
+/*
+        TIll NOW Code by Roshan Manik Wagh Please dont change it without discussion......
+        rights.
+
+*/
